@@ -24,7 +24,7 @@
 Ce cloner a été conçu pour être rapide, efficace et contourner les limitations habituelles.
 
 *   **Copie Complète** : Clone les rôles, les catégories, les salons (textuels et vocaux) et les permissions.
-*   **Haute Précision** : Conserve l'ordre des salons et la hiérarchie des rôles.
+*   **Copie Conforme** : Conserve l'ordre des salons et la hiérarchie des rôles.
 *   **Interface Moderne** : Une interface utilisateur graphique (GUI) propre basée sur Electron.
 *   **Sécurité Avancée** : Toute vos données sensible sont stocker en local sur votre ordinateur.
 *   **Bypass Rate-Limit** : Gestion intelligente des requêtes pour éviter les blocages de l'API Discord.
