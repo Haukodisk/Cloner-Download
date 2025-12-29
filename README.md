@@ -2,7 +2,7 @@
 
   # 🚀 Discord Server Cloner
   
-  **L'outil ultime pour dupliquer, sauvegarder et restaurer des serveurs Discord avec précision.**
+  **L'outil backup ou template n'importe quel serveur.**
   
   ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
   ![Electron](https://img.shields.io/badge/Electron-27.0.0-47848F?style=for-the-badge&logo=electron&logoColor=white)
