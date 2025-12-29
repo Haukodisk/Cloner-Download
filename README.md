@@ -31,7 +31,7 @@ Ce cloner a été conçu pour être rapide, efficace et contourner les limitatio
 
 ## 🛠️ Installation
 
-1.  **Téléchargez** la dernière version dans l'onglet [Releases](https://github.com/ton-pseudo/ton-repo/releases).
+1.  **Téléchargez** la dernière version dans l'onglet [Releases](https://github.com/Haukodisk/Cloner-Download/releases).
 2.  **Extrayez** l'archive `.zip` ou lancez l'installateur `.exe`.
 3.  **Lancez** `Cloner Setup x.x.x.exe`.
 
@@ -42,7 +42,6 @@ Ce cloner a été conçu pour être rapide, efficace et contourner les limitatio
 3.  Entrez l'**ID du serveur source** (celui à copier).
 4.  Entrez l'**ID du serveur destination** (un serveur vide où vous avez les permissions admin).
 5.  Cliquez sur **Démarrer**.
-6.  Laissez la magie opérer ! ☕
 
 ## ⚠️ Avertissement
 
